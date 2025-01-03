@@ -22,4 +22,4 @@ if __name__ == "__main__":
     if gas:
         print("Gas object successfully created.")
         print("smile")
-        
+        print("smile")

@@ -21,3 +21,5 @@ if __name__ == "__main__":
     gas = create_gas_structure()
     if gas:
         print("Gas object successfully created.")
+        print("smile")
+        
